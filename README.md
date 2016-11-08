@@ -1,7 +1,9 @@
 # item-ws (REST Web Sevice)
 This is an example of a simple REST Web Service written in Java.  
 
-I have put this project here mainly for a code sample, but if you would like to use it for reference or a starting point, please be my guest (MIT license applied of course).
+I have put this project here mainly for a code sample, but if you would like to use it for reference or a starting point, please be my guest.  
+
+The MIT license in LICENSE.md applies to my source code only.  The project uses several 3rd party jar files listed in the pom.xml.  Each jar file, and dependent jar files, convey the license contained within each.
 
 The project is a Maven project.  I deploy the WAR in Tomcat 7, and I have MySQL running for the DB.  I simply run the unit tests in eclipse, but setting up the maven project on a CI server would be straight forward.
 
