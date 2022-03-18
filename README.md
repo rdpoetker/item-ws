@@ -1,4 +1,11 @@
 # item-ws (REST Web Sevice)
+
+### 2022 Note
+
+*This project is now somewhat outdated and shouldn't be used for reference. 
+I would code some parts differently now. 
+I'll try to modernize it soon.*
+
 This is an example of a simple REST Web Service written in Java.  
 
 I have put this project here mainly for a code sample, but if you would like to use it for reference or a starting point, please be my guest.  
